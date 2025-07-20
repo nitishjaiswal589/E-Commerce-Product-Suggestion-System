@@ -28,4 +28,5 @@ class ContentBasedRecommender:
         product_indices = [i[0] for i in sim_scores]
 
         # Step 8: Return similar products as a DataFrame
-        return self.products.iloc[product_indices][['product_id', 'name', 'brand']]
+        return self.products.iloc[product_indices][['product_id', 'name', 'brand', 'category', 'price', 'rating', 'description']]
+

@@ -1,0 +1,101 @@
+product_id,name,category,brand,price,rating,description,views
+1,Levi's Jackets Item 1,Jackets,Levi's,2143.96,4.1,Warm and durable jacket made with premium materials.,0
+2,Raymond Shirts Item 2,Shirts,Raymond,2753.56,4.7,Formal slim-fit shirt ideal for office meetings and interviews.,0
+3,boAt Electronics Item 3,Electronics,boAt,3859.41,4.1,High-quality electronic gadget with long battery life.,1
+4,U.S. Polo Accessories Item 4,Accessories,U.S. Polo,1263.47,4.8,Trendy and fashionable accessory for daily use.,0
+5,boAt Electronics Item 5,Electronics,boAt,3103.05,3.9,High-quality electronic gadget with long battery life.,0
+6,Max Dresses Item 6,Dresses,Max,4914.84,4.8,Floral casual dress perfect for summer outings.,0
+7,U.S. Polo Accessories Item 7,Accessories,U.S. Polo,4033.81,4.7,Trendy and fashionable accessory for daily use.,0
+8,VIP Bags Item 8,Bags,VIP,4267.38,4.2,Spacious and water-resistant backpack with laptop compartment.,0
+9,JBL Electronics Item 9,Electronics,JBL,3650.78,4.7,High-quality electronic gadget with long battery life.,0
+10,Puma Shoes Item 10,Shoes,Puma,4238.04,4.9,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+11,Max Dresses Item 11,Dresses,Max,3768.9,4.9,Floral casual dress perfect for summer outings.,0
+12,Soch Kurtas Item 12,Kurtas,Soch,908.0,3.6,Traditional kurta suitable for festivals and special occasions.,0
+13,American Tourister Bags Item 13,Bags,American Tourister,980.14,4.6,Spacious and water-resistant backpack with laptop compartment.,0
+14,Puma Sweatshirts Item 14,Sweatshirts,Puma,2319.31,4.2,Cozy sweatshirt ideal for winter and travel.,0
+15,Safari Bags Item 15,Bags,Safari,1108.95,4.3,Spacious and water-resistant backpack with laptop compartment.,0
+16,Timex Watches Item 16,Watches,Timex,4507.67,4.5,Elegant watch with durable strap and water resistance.,0
+17,Van Heusen Shirts Item 17,Shirts,Van Heusen,2893.65,3.6,Formal slim-fit shirt ideal for office meetings and interviews.,0
+18,H&M Jackets Item 18,Jackets,H&M,4158.08,3.8,Warm and durable jacket made with premium materials.,0
+19,Van Heusen Shirts Item 19,Shirts,Van Heusen,4743.12,3.7,Formal slim-fit shirt ideal for office meetings and interviews.,0
+20,H&M Dresses Item 20,Dresses,H&M,4411.34,4.4,Floral casual dress perfect for summer outings.,0
+21,Fabindia Kurtas Item 21,Kurtas,Fabindia,2411.32,4.8,Traditional kurta suitable for festivals and special occasions.,0
+22,Manyavar Kurtas Item 22,Kurtas,Manyavar,4229.58,4.6,Traditional kurta suitable for festivals and special occasions.,0
+23,Levi's Accessories Item 23,Accessories,Levi's,2869.21,4.8,Trendy and fashionable accessory for daily use.,0
+24,Ray-Ban Accessories Item 24,Accessories,Ray-Ban,4418.63,3.6,Trendy and fashionable accessory for daily use.,0
+25,Soch Kurtas Item 25,Kurtas,Soch,1494.5,4.8,Traditional kurta suitable for festivals and special occasions.,0
+26,Arrow Shirts Item 26,Shirts,Arrow,3636.07,3.9,Formal slim-fit shirt ideal for office meetings and interviews.,0
+27,Wildcraft Bags Item 27,Bags,Wildcraft,1103.42,4.1,Spacious and water-resistant backpack with laptop compartment.,0
+28,Zara Jackets Item 28,Jackets,Zara,4042.71,3.8,Warm and durable jacket made with premium materials.,0
+29,Fabindia Kurtas Item 29,Kurtas,Fabindia,3255.86,4.9,Traditional kurta suitable for festivals and special occasions.,0
+30,Arrow Shirts Item 30,Shirts,Arrow,1109.6,4.1,Formal slim-fit shirt ideal for office meetings and interviews.,0
+31,JBL Electronics Item 31,Electronics,JBL,3913.97,3.8,High-quality electronic gadget with long battery life.,0
+32,Adidas Shoes Item 32,Shoes,Adidas,4398.1,3.6,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+33,boAt Electronics Item 33,Electronics,boAt,1765.98,3.8,High-quality electronic gadget with long battery life.,0
+34,Fabindia Kurtas Item 34,Kurtas,Fabindia,4747.01,3.5,Traditional kurta suitable for festivals and special occasions.,0
+35,Tommy Hilfiger Accessories Item 35,Accessories,Tommy Hilfiger,4567.82,4.7,Trendy and fashionable accessory for daily use.,0
+36,Fabindia Kurtas Item 36,Kurtas,Fabindia,856.43,4.8,Traditional kurta suitable for festivals and special occasions.,0
+37,Zara Shirts Item 37,Shirts,Zara,4397.37,4.3,Formal slim-fit shirt ideal for office meetings and interviews.,0
+38,Tommy Hilfiger Accessories Item 38,Accessories,Tommy Hilfiger,4479.11,4.8,Trendy and fashionable accessory for daily use.,0
+39,HRX Sweatshirts Item 39,Sweatshirts,HRX,3206.47,4.2,Cozy sweatshirt ideal for winter and travel.,0
+40,Reebok Sweatshirts Item 40,Sweatshirts,Reebok,2974.05,3.5,Cozy sweatshirt ideal for winter and travel.,0
+41,Sonata Watches Item 41,Watches,Sonata,2811.98,4.3,Elegant watch with durable strap and water resistance.,0
+42,Raymond Shirts Item 42,Shirts,Raymond,4238.04,3.8,Formal slim-fit shirt ideal for office meetings and interviews.,0
+43,Woodland Jackets Item 43,Jackets,Woodland,4901.92,4.7,Warm and durable jacket made with premium materials.,0
+44,JBL Electronics Item 44,Electronics,JBL,4628.65,4.7,High-quality electronic gadget with long battery life.,0
+45,Woodland Jackets Item 45,Jackets,Woodland,4834.84,4.5,Warm and durable jacket made with premium materials.,0
+46,Wildcraft Bags Item 46,Bags,Wildcraft,4098.47,4.5,Spacious and water-resistant backpack with laptop compartment.,0
+47,U.S. Polo Accessories Item 47,Accessories,U.S. Polo,4205.9,4.4,Trendy and fashionable accessory for daily use.,0
+48,U.S. Polo Accessories Item 48,Accessories,U.S. Polo,1431.49,3.8,Trendy and fashionable accessory for daily use.,0
+49,Manyavar Kurtas Item 49,Kurtas,Manyavar,1164.55,4.2,Traditional kurta suitable for festivals and special occasions.,0
+50,Puma Shoes Item 50,Shoes,Puma,3184.17,4.0,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+51,Manyavar Kurtas Item 51,Kurtas,Manyavar,4457.13,4.2,Traditional kurta suitable for festivals and special occasions.,0
+52,Van Heusen Shirts Item 52,Shirts,Van Heusen,1540.04,4.1,Formal slim-fit shirt ideal for office meetings and interviews.,0
+53,Titan Watches Item 53,Watches,Titan,1723.13,4.3,Elegant watch with durable strap and water resistance.,0
+54,Puma Sweatshirts Item 54,Sweatshirts,Puma,1131.99,4.7,Cozy sweatshirt ideal for winter and travel.,0
+55,Ray-Ban Accessories Item 55,Accessories,Ray-Ban,3326.11,4.0,Trendy and fashionable accessory for daily use.,0
+56,boAt Electronics Item 56,Electronics,boAt,1387.2,4.7,High-quality electronic gadget with long battery life.,0
+57,Skybags Bags Item 57,Bags,Skybags,1067.02,4.3,Spacious and water-resistant backpack with laptop compartment.,0
+58,Titan Watches Item 58,Watches,Titan,4411.11,4.2,Elegant watch with durable strap and water resistance.,0
+59,Wildcraft Bags Item 59,Bags,Wildcraft,4889.5,3.5,Spacious and water-resistant backpack with laptop compartment.,0
+60,Puma Sweatshirts Item 60,Sweatshirts,Puma,4772.02,4.4,Cozy sweatshirt ideal for winter and travel.,0
+61,Mi Electronics Item 61,Electronics,Mi,3154.69,4.0,High-quality electronic gadget with long battery life.,0
+62,Max Dresses Item 62,Dresses,Max,2633.36,4.8,Floral casual dress perfect for summer outings.,0
+63,Zara Shirts Item 63,Shirts,Zara,2746.24,4.5,Formal slim-fit shirt ideal for office meetings and interviews.,0
+64,Titan Watches Item 64,Watches,Titan,1343.6,3.7,Elegant watch with durable strap and water resistance.,0
+65,H&M Dresses Item 65,Dresses,H&M,3816.53,4.1,Floral casual dress perfect for summer outings.,0
+66,Peter England Shirts Item 66,Shirts,Peter England,2633.73,4.3,Formal slim-fit shirt ideal for office meetings and interviews.,0
+67,Wildcraft Bags Item 67,Bags,Wildcraft,2960.8,4.7,Spacious and water-resistant backpack with laptop compartment.,0
+68,Ray-Ban Accessories Item 68,Accessories,Ray-Ban,2113.04,4.1,Trendy and fashionable accessory for daily use.,0
+69,Ray-Ban Accessories Item 69,Accessories,Ray-Ban,2817.82,4.3,Trendy and fashionable accessory for daily use.,0
+70,Realme Electronics Item 70,Electronics,Realme,1739.09,4.1,High-quality electronic gadget with long battery life.,0
+71,U.S. Polo Accessories Item 71,Accessories,U.S. Polo,2811.08,4.8,Trendy and fashionable accessory for daily use.,0
+72,Levi's Accessories Item 72,Accessories,Levi's,3780.9,3.7,Trendy and fashionable accessory for daily use.,0
+73,W Kurtas Item 73,Kurtas,W,4421.91,4.8,Traditional kurta suitable for festivals and special occasions.,0
+74,H&M Accessories Item 74,Accessories,H&M,1292.48,4.5,Trendy and fashionable accessory for daily use.,0
+75,Reebok Shoes Item 75,Shoes,Reebok,3834.44,4.3,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+76,Sonata Watches Item 76,Watches,Sonata,2449.84,4.3,Elegant watch with durable strap and water resistance.,0
+77,Soch Kurtas Item 77,Kurtas,Soch,3784.56,4.2,Traditional kurta suitable for festivals and special occasions.,0
+78,Zara Jackets Item 78,Jackets,Zara,870.93,4.5,Warm and durable jacket made with premium materials.,0
+79,Fastrack Watches Item 79,Watches,Fastrack,4700.76,3.7,Elegant watch with durable strap and water resistance.,0
+80,Zara Shirts Item 80,Shirts,Zara,3153.9,3.7,Formal slim-fit shirt ideal for office meetings and interviews.,0
+81,Max Dresses Item 81,Dresses,Max,4571.69,5.0,Floral casual dress perfect for summer outings.,0
+82,boAt Electronics Item 82,Electronics,boAt,1879.13,4.6,High-quality electronic gadget with long battery life.,0
+83,Adidas Sweatshirts Item 83,Sweatshirts,Adidas,4136.26,4.3,Cozy sweatshirt ideal for winter and travel.,0
+84,U.S. Polo Accessories Item 84,Accessories,U.S. Polo,1237.88,5.0,Trendy and fashionable accessory for daily use.,0
+85,Fabindia Kurtas Item 85,Kurtas,Fabindia,1727.8,4.0,Traditional kurta suitable for festivals and special occasions.,0
+86,H&M Accessories Item 86,Accessories,H&M,2546.67,4.6,Trendy and fashionable accessory for daily use.,0
+87,Biba Kurtas Item 87,Kurtas,Biba,3798.82,4.9,Traditional kurta suitable for festivals and special occasions.,0
+88,Manyavar Kurtas Item 88,Kurtas,Manyavar,2726.14,3.8,Traditional kurta suitable for festivals and special occasions.,0
+89,Skybags Bags Item 89,Bags,Skybags,4243.79,3.6,Spacious and water-resistant backpack with laptop compartment.,0
+90,Skybags Bags Item 90,Bags,Skybags,4189.1,4.7,Spacious and water-resistant backpack with laptop compartment.,0
+91,Fastrack Watches Item 91,Watches,Fastrack,946.6,4.8,Elegant watch with durable strap and water resistance.,0
+92,Adidas Sweatshirts Item 92,Sweatshirts,Adidas,3410.69,4.1,Cozy sweatshirt ideal for winter and travel.,0
+93,Titan Watches Item 93,Watches,Titan,4558.78,4.2,Elegant watch with durable strap and water resistance.,0
+94,Bata Shoes Item 94,Shoes,Bata,876.53,4.9,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+95,Zara Shirts Item 95,Shirts,Zara,4077.53,4.2,Formal slim-fit shirt ideal for office meetings and interviews.,0
+96,U.S. Polo Accessories Item 96,Accessories,U.S. Polo,2983.63,3.7,Trendy and fashionable accessory for daily use.,0
+97,Wildcraft Bags Item 97,Bags,Wildcraft,2685.09,3.7,Spacious and water-resistant backpack with laptop compartment.,0
+98,Nike Shoes Item 98,Shoes,Nike,4616.27,4.0,Comfortable and stylish shoes perfect for daily wear and jogging.,0
+99,Biba Dresses Item 99,Dresses,Biba,4415.77,3.6,Floral casual dress perfect for summer outings.,0
+100,U.S. Polo Accessories Item 100,Accessories,U.S. Polo,2004.61,4.2,Trendy and fashionable accessory for daily use.,0
