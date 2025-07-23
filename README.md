@@ -32,21 +32,7 @@ This system recommends products based on both product content and user viewing b
 
 ---
 
-## 🗂️ Project Structure
-
-ecommerce-recommender/
-├── app/
-│ ├── init.py
-│ ├── recommender.py # Core TF-IDF recommendation logic
-│ ├── product_data.csv # 100-item product catalog
-│ └── product_views.csv # Tracks product view counts
-├── streamlit_app.py # Streamlit frontend app
-├── views_initializer.py # Generates product_views.csv
-├── requirements.txt # Project dependencies
-└── README.md # You are reading it
-
-
----
+Deploy Link :- [Live Product Suggestion Recommender](https://e-commerce-appuct-suggestion-system-nfgnhmoam7vappqhrhfn6mn.streamlit.app/)
 
 ## ⚙️ How It Works
 
