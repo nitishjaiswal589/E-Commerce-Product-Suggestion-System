@@ -1,6 +1,9 @@
 # 🛍️ Live E-Commerce Product Recommender
 
-A content-based product recommendation system with a polished Streamlit frontend and click-tracking analytics. Built by **Nitish Jaiswal**.
+A content-based product recommendation system with a polished Streamlit frontend and click-tracking analytics.
+---
+
+Deploy Link :- [Live Product Suggestion Recommender](https://e-commerce-appuct-suggestion-system-nfgnhmoam7vappqhrhfn6mn.streamlit.app/)
 
 ## 🔍 Project Overview
 
@@ -32,7 +35,6 @@ This system recommends products based on both product content and user viewing b
 
 ---
 
-Deploy Link :- [Live Product Suggestion Recommender](https://e-commerce-appuct-suggestion-system-nfgnhmoam7vappqhrhfn6mn.streamlit.app/)
 
 ## ⚙️ How It Works
 
@@ -55,9 +57,13 @@ Deploy Link :- [Live Product Suggestion Recommender](https://e-commerce-appuct-s
 ---
 Screenshots
 ![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/7c7cceeb6cd00af5a86d8ce8904a05781ded8ead/img%20(1).png)
+
 ![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/091bdecf24a549cb8b2b5c37b44231042bebd587/img%20(2).png)
+
 ![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/139868be7cd802e47d2256b55cc9009523c150f0/img%20(3).png)
+
 ![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/1d60f0af52afcb0dcb0f9382c10eecd7d1c08e3f/img%20(4).png)
+
 ![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/8d603802b42a2aa1c5bd40872025ac1870ce39a4/img%20(5).png)
 
 
