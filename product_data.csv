@@ -1,0 +1,101 @@
+product_id,name,category,brand,price,rating,description
+1,American Tourister Backpacks Model 856,Backpacks,American Tourister,802,4.6,"Spacious, durable backpacks ideal for travel and school."
+2,Zara Shirts Model 936,Shirts,Zara,1991,4.5,Formal and casual shirts made with high-quality fabric.
+3,Titan Watches Model 106,Watches,Titan,3834,4.1,Elegant watches with long battery life and sleek design.
+4,Casio Watches Model 246,Watches,Casio,1836,5.0,Elegant watches with long battery life and sleek design.
+5,American Tourister Backpacks Model 952,Backpacks,American Tourister,1298,4.3,"Spacious, durable backpacks ideal for travel and school."
+6,boAt Headphones Model 611,Headphones,boAt,958,4.6,"High-fidelity sound, noise cancellation, and wireless connectivity."
+7,JBL Headphones Model 963,Headphones,JBL,2562,3.6,"High-fidelity sound, noise cancellation, and wireless connectivity."
+8,Zara Shirts Model 180,Shirts,Zara,1117,4.8,Formal and casual shirts made with high-quality fabric.
+9,Fossil Watches Model 869,Watches,Fossil,2087,3.8,Elegant watches with long battery life and sleek design.
+10,Titan Watches Model 952,Watches,Titan,3036,3.9,Elegant watches with long battery life and sleek design.
+11,Adidas Shoes Model 122,Shoes,Adidas,4621,4.6,Comfortable and stylish shoes perfect for daily wear and jogging.
+12,Titan Watches Model 429,Watches,Titan,2385,4.5,Elegant watches with long battery life and sleek design.
+13,boAt Headphones Model 346,Headphones,boAt,4193,4.2,"High-fidelity sound, noise cancellation, and wireless connectivity."
+14,boAt Headphones Model 808,Headphones,boAt,3778,4.9,"High-fidelity sound, noise cancellation, and wireless connectivity."
+15,Titan Watches Model 377,Watches,Titan,3727,3.5,Elegant watches with long battery life and sleek design.
+16,Casio Watches Model 414,Watches,Casio,4670,4.4,Elegant watches with long battery life and sleek design.
+17,boAt Headphones Model 822,Headphones,boAt,2124,3.8,"High-fidelity sound, noise cancellation, and wireless connectivity."
+18,Van Heusen Shirts Model 108,Shirts,Van Heusen,2220,4.2,Formal and casual shirts made with high-quality fabric.
+19,JBL Headphones Model 782,Headphones,JBL,2732,4.3,"High-fidelity sound, noise cancellation, and wireless connectivity."
+20,Nike Shoes Model 792,Shoes,Nike,2144,5.0,Comfortable and stylish shoes perfect for daily wear and jogging.
+21,Zara Shirts Model 990,Shirts,Zara,1975,4.6,Formal and casual shirts made with high-quality fabric.
+22,Skybags Backpacks Model 171,Backpacks,Skybags,2434,3.6,"Spacious, durable backpacks ideal for travel and school."
+23,Titan Watches Model 392,Watches,Titan,3362,4.4,Elegant watches with long battery life and sleek design.
+24,Skybags Backpacks Model 667,Backpacks,Skybags,4481,4.9,"Spacious, durable backpacks ideal for travel and school."
+25,Skybags Backpacks Model 517,Backpacks,Skybags,1653,4.9,"Spacious, durable backpacks ideal for travel and school."
+26,Van Heusen Shirts Model 779,Shirts,Van Heusen,1390,3.5,Formal and casual shirts made with high-quality fabric.
+27,Fossil Watches Model 982,Watches,Fossil,4402,4.0,Elegant watches with long battery life and sleek design.
+28,Wildcraft Backpacks Model 189,Backpacks,Wildcraft,2021,3.7,"Spacious, durable backpacks ideal for travel and school."
+29,Zara Shirts Model 216,Shirts,Zara,2169,3.9,Formal and casual shirts made with high-quality fabric.
+30,JBL Headphones Model 755,Headphones,JBL,3557,4.6,"High-fidelity sound, noise cancellation, and wireless connectivity."
+31,Casio Watches Model 763,Watches,Casio,2466,4.5,Elegant watches with long battery life and sleek design.
+32,Arrow Shirts Model 313,Shirts,Arrow,3936,4.6,Formal and casual shirts made with high-quality fabric.
+33,Fossil Watches Model 621,Watches,Fossil,3235,4.9,Elegant watches with long battery life and sleek design.
+34,Van Heusen Shirts Model 209,Shirts,Van Heusen,4410,4.4,Formal and casual shirts made with high-quality fabric.
+35,Nike Shoes Model 862,Shoes,Nike,3426,3.6,Comfortable and stylish shoes perfect for daily wear and jogging.
+36,Skybags Backpacks Model 342,Backpacks,Skybags,2669,4.9,"Spacious, durable backpacks ideal for travel and school."
+37,Adidas Shoes Model 413,Shoes,Adidas,4082,4.1,Comfortable and stylish shoes perfect for daily wear and jogging.
+38,Casio Watches Model 627,Watches,Casio,2610,4.9,Elegant watches with long battery life and sleek design.
+39,Wildcraft Backpacks Model 167,Backpacks,Wildcraft,2480,3.5,"Spacious, durable backpacks ideal for travel and school."
+40,Wildcraft Backpacks Model 936,Backpacks,Wildcraft,3900,4.0,"Spacious, durable backpacks ideal for travel and school."
+41,Fossil Watches Model 620,Watches,Fossil,4723,4.8,Elegant watches with long battery life and sleek design.
+42,Sony Headphones Model 354,Headphones,Sony,3799,4.1,"High-fidelity sound, noise cancellation, and wireless connectivity."
+43,Sony Headphones Model 166,Headphones,Sony,1772,3.5,"High-fidelity sound, noise cancellation, and wireless connectivity."
+44,Sony Headphones Model 659,Headphones,Sony,1726,4.1,"High-fidelity sound, noise cancellation, and wireless connectivity."
+45,Titan Watches Model 622,Watches,Titan,1516,3.5,Elegant watches with long battery life and sleek design.
+46,Nike Shoes Model 681,Shoes,Nike,4229,4.7,Comfortable and stylish shoes perfect for daily wear and jogging.
+47,Sony Headphones Model 342,Headphones,Sony,1238,3.8,"High-fidelity sound, noise cancellation, and wireless connectivity."
+48,Adidas Shoes Model 380,Shoes,Adidas,1895,5.0,Comfortable and stylish shoes perfect for daily wear and jogging.
+49,Nike Shoes Model 220,Shoes,Nike,4177,4.3,Comfortable and stylish shoes perfect for daily wear and jogging.
+50,Sony Headphones Model 499,Headphones,Sony,3868,4.8,"High-fidelity sound, noise cancellation, and wireless connectivity."
+51,Titan Watches Model 227,Watches,Titan,1957,4.5,Elegant watches with long battery life and sleek design.
+52,Wildcraft Backpacks Model 613,Backpacks,Wildcraft,2470,4.4,"Spacious, durable backpacks ideal for travel and school."
+53,JBL Headphones Model 554,Headphones,JBL,3416,4.3,"High-fidelity sound, noise cancellation, and wireless connectivity."
+54,Titan Watches Model 231,Watches,Titan,4502,4.3,Elegant watches with long battery life and sleek design.
+55,Wildcraft Backpacks Model 506,Backpacks,Wildcraft,2629,4.8,"Spacious, durable backpacks ideal for travel and school."
+56,Adidas Shoes Model 693,Shoes,Adidas,1748,4.9,Comfortable and stylish shoes perfect for daily wear and jogging.
+57,Zara Shirts Model 674,Shirts,Zara,2717,3.8,Formal and casual shirts made with high-quality fabric.
+58,Casio Watches Model 540,Watches,Casio,1216,3.7,Elegant watches with long battery life and sleek design.
+59,American Tourister Backpacks Model 899,Backpacks,American Tourister,2810,4.2,"Spacious, durable backpacks ideal for travel and school."
+60,JBL Headphones Model 440,Headphones,JBL,1013,4.1,"High-fidelity sound, noise cancellation, and wireless connectivity."
+61,American Tourister Backpacks Model 518,Backpacks,American Tourister,2997,4.8,"Spacious, durable backpacks ideal for travel and school."
+62,Zara Shirts Model 759,Shirts,Zara,1296,3.8,Formal and casual shirts made with high-quality fabric.
+63,Zara Shirts Model 217,Shirts,Zara,4318,4.9,Formal and casual shirts made with high-quality fabric.
+64,Titan Watches Model 310,Watches,Titan,4389,3.8,Elegant watches with long battery life and sleek design.
+65,Wildcraft Backpacks Model 919,Backpacks,Wildcraft,1322,4.0,"Spacious, durable backpacks ideal for travel and school."
+66,American Tourister Backpacks Model 730,Backpacks,American Tourister,2856,3.7,"Spacious, durable backpacks ideal for travel and school."
+67,boAt Headphones Model 725,Headphones,boAt,2432,4.9,"High-fidelity sound, noise cancellation, and wireless connectivity."
+68,Casio Watches Model 891,Watches,Casio,1217,4.8,Elegant watches with long battery life and sleek design.
+69,Puma Shoes Model 954,Shoes,Puma,4196,4.7,Comfortable and stylish shoes perfect for daily wear and jogging.
+70,Adidas Shoes Model 868,Shoes,Adidas,3790,3.5,Comfortable and stylish shoes perfect for daily wear and jogging.
+71,Arrow Shirts Model 692,Shirts,Arrow,1729,4.8,Formal and casual shirts made with high-quality fabric.
+72,Arrow Shirts Model 756,Shirts,Arrow,4183,4.2,Formal and casual shirts made with high-quality fabric.
+73,Fossil Watches Model 357,Watches,Fossil,4443,4.5,Elegant watches with long battery life and sleek design.
+74,Fossil Watches Model 646,Watches,Fossil,3241,4.6,Elegant watches with long battery life and sleek design.
+75,Arrow Shirts Model 973,Shirts,Arrow,2158,4.7,Formal and casual shirts made with high-quality fabric.
+76,American Tourister Backpacks Model 282,Backpacks,American Tourister,2953,4.9,"Spacious, durable backpacks ideal for travel and school."
+77,Zara Shirts Model 720,Shirts,Zara,1114,3.7,Formal and casual shirts made with high-quality fabric.
+78,Casio Watches Model 489,Watches,Casio,4310,4.4,Elegant watches with long battery life and sleek design.
+79,JBL Headphones Model 803,Headphones,JBL,1345,4.0,"High-fidelity sound, noise cancellation, and wireless connectivity."
+80,Wildcraft Backpacks Model 758,Backpacks,Wildcraft,4162,3.8,"Spacious, durable backpacks ideal for travel and school."
+81,Titan Watches Model 669,Watches,Titan,2011,4.4,Elegant watches with long battery life and sleek design.
+82,Fossil Watches Model 185,Watches,Fossil,1380,4.1,Elegant watches with long battery life and sleek design.
+83,boAt Headphones Model 792,Headphones,boAt,3174,4.6,"High-fidelity sound, noise cancellation, and wireless connectivity."
+84,Skybags Backpacks Model 978,Backpacks,Skybags,4732,4.1,"Spacious, durable backpacks ideal for travel and school."
+85,Fossil Watches Model 676,Watches,Fossil,2908,4.5,Elegant watches with long battery life and sleek design.
+86,Fossil Watches Model 566,Watches,Fossil,2233,4.7,Elegant watches with long battery life and sleek design.
+87,boAt Headphones Model 678,Headphones,boAt,4487,4.4,"High-fidelity sound, noise cancellation, and wireless connectivity."
+88,Sony Headphones Model 102,Headphones,Sony,962,3.6,"High-fidelity sound, noise cancellation, and wireless connectivity."
+89,Puma Shoes Model 354,Shoes,Puma,4065,4.6,Comfortable and stylish shoes perfect for daily wear and jogging.
+90,Van Heusen Shirts Model 619,Shirts,Van Heusen,3167,4.7,Formal and casual shirts made with high-quality fabric.
+91,Arrow Shirts Model 665,Shirts,Arrow,3568,4.4,Formal and casual shirts made with high-quality fabric.
+92,Zara Shirts Model 844,Shirts,Zara,2658,3.8,Formal and casual shirts made with high-quality fabric.
+93,Fossil Watches Model 500,Watches,Fossil,3308,4.9,Elegant watches with long battery life and sleek design.
+94,JBL Headphones Model 813,Headphones,JBL,1129,4.4,"High-fidelity sound, noise cancellation, and wireless connectivity."
+95,Arrow Shirts Model 827,Shirts,Arrow,3599,4.0,Formal and casual shirts made with high-quality fabric.
+96,Sony Headphones Model 407,Headphones,Sony,1580,3.7,"High-fidelity sound, noise cancellation, and wireless connectivity."
+97,Sony Headphones Model 824,Headphones,Sony,1951,4.0,"High-fidelity sound, noise cancellation, and wireless connectivity."
+98,Wildcraft Backpacks Model 493,Backpacks,Wildcraft,4720,3.9,"Spacious, durable backpacks ideal for travel and school."
+99,American Tourister Backpacks Model 660,Backpacks,American Tourister,2940,4.5,"Spacious, durable backpacks ideal for travel and school."
+100,Wildcraft Backpacks Model 958,Backpacks,Wildcraft,4107,4.7,"Spacious, durable backpacks ideal for travel and school."
