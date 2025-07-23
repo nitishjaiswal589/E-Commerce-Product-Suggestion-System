@@ -68,6 +68,7 @@ ecommerce-recommender/
 
 ---
 Screenshots
+![image alt](https://github.com/nitishjaiswal589/E-Commerce-Product-Suggestion-System/blob/7c7cceeb6cd00af5a86d8ce8904a05781ded8ead/img%20(1).png)
 
 
 
